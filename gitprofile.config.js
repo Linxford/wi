@@ -29,20 +29,39 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    //'PHP',
+    //'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
     'Nest.js',
     'MySQL',
-    'PostgreSQL',
+    'MongoDB',
+    //'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    //'PHPUnit',
     'CSS',
-    'Antd',
+    //'Antd',
     'Tailwind',
+    'Flutter',
+    'Dart',
+    'Firebase',
+    'AWS',
+    'Linux',
+    'Marketing',
+    'Python',
+    'Django',
+    'C++',
+    'C#',
+    'Java',
+    'Kotlin',
+    'Android',
+    'IOS',
+    'Automation',
+    'Testing',
+
+    
   ],
   experiences: [
     {
@@ -60,26 +79,26 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Degree',
+      body: 'BSc. Computer Science',
+      year: 'Sept 2025',
+      link: 'https://uew.edu.gh'
     },
-  ], */
+  ], 
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'University of Education, Winneba',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2021',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'School of Code',
+      degree: 'Certificate',
+      from: '2019',
+      to: '2021',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -89,11 +108,11 @@ const config = {
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-344529404', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
-    id: '',
+    id: '3293301',
     snippetVersion: 6,
   },
   themeConfig: {
