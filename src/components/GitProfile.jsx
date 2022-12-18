@@ -217,7 +217,7 @@ const GitProfile = ({ config }) => {
                 <div className="card compact bg-base-100 shadow">
                   <a
                     className="card-body"
-                    href="https://github.com/arifszn/gitprofile"
+                    href="https://www.linkedin.com/in/wisdak"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -226,9 +226,9 @@ const GitProfile = ({ config }) => {
                         skeleton({ width: 'w-52', height: 'h-6' })
                       ) : (
                         <p className="font-mono text-sm">
-                          Made with{' '}
-                          <span className="text-primary">GitProfile</span> and
-                          ❤️
+                          © 2022{' '}
+                          <span className="text-primary">Wisdak</span> and
+                          💙
                         </p>
                       )}
                     </div>

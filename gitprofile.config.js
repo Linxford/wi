@@ -11,9 +11,9 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
+    linkedin: 'wisdak',
+    twitter: 'wisdak_dart',
+    facebook: 'wisdak_dart',
     instagram: '',
     dribbble: '',
     behance: '',
@@ -21,7 +21,7 @@ const config = {
     dev: 'wisdak',
     stackoverflow: '', // format: userid/username
     website: 'https://wisdak.github.io',
-    phone: '',
+    phone: '233249771777',
     email: 'wisdak7@gmail.com',
   },
   resume: {
