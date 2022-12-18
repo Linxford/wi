@@ -92,7 +92,7 @@ const config = {
       institution: 'University of Education, Winneba',
       degree: 'Degree',
       from: '2021',
-      to: '2025',
+      to: 'Present',
     },
     {
       institution: 'School of Code',
