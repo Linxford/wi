@@ -2,8 +2,8 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    username: 'wisdak', // Your GitHub org/user name. (Required)
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -17,12 +17,12 @@ const config = {
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'wisdak',
+    dev: 'wisdak',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.github.io',
+    website: 'https://wisdak.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'wisdak7@gmail.com',
   },
   resume: {
     fileUrl:
@@ -85,7 +85,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'wisdak', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
