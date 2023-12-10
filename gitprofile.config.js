@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'wisdak', // Your GitHub org/user name. (Required)
+    username: 'linxford', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,8 +11,8 @@ const config = {
     },
   },
   social: {
-    linkedin: 'wisdak',
-    twitter: 'wisdak_dart',
+    linkedin: 'linxford',
+    twitter: 'linxfordk',
     facebook: 'wisdak_dart',
     instagram: '',
     dribbble: '',
@@ -20,7 +20,7 @@ const config = {
     medium: 'wisdak',
     dev: 'wisdak',
     stackoverflow: '', // format: userid/username
-    website: 'https://wisdak.github.io',
+    website: 'https://linxford.github.io',
     phone: '233249771777',
     email: 'wisdak7@gmail.com',
   },
@@ -34,12 +34,12 @@ const config = {
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+  //  'Nest.js',
     'MySQL',
     'MongoDB',
     //'PostgreSQL',
     'Git',
-    'Docker',
+   // 'Docker',
     //'PHPUnit',
     'CSS',
     //'Antd',
@@ -50,14 +50,14 @@ const config = {
     'AWS',
     'Linux',
     'Marketing',
-    'Python',
-    'Django',
+  //  'Python',
+ //   'Django',
     'C++',
     'C#',
     'Java',
-    'Kotlin',
-    'Android',
-    'IOS',
+ //   'Kotlin',
+ //   'Android',
+ //   'IOS',
     'Automation',
     'Testing',
 
